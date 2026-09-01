@@ -1,6 +1,6 @@
 # 🔎 Contemplation AI
 
-**An autonomous multi-agent research assistant.** Give it any topic — it plans the research, searches the web, and compiles a clean, sourced report. No manual digging required.
+**An autonomous multi-agent research assistant.** Give it any topic it plans the research, searches the web, and compiles a clean, sourced report. No manual digging required.
 
 🔗 **Live app:** [contemplation-ai.streamlit.app](https://contemplation-ai.streamlit.app)
 
@@ -9,7 +9,7 @@
 ## What it does
 
 1. You enter a research topic.
-2. A **Planner Agent** breaks it down into 3–5 focused sub-questions.
+2. A **Planner Agent** breaks it down into 3-5 focused sub-questions.
 3. A **Researcher Agent** searches the web (via Tavily) for each sub-question.
 4. Everything is synthesized into a single, well-organized report with sources, ready to read or download.
 
